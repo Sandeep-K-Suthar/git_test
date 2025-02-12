@@ -1,1 +1,3 @@
-# git-version-control-testrepo renamed to git_test from git-version-control-test-with-ssh
+**Git version Control test with Odin Project**
+
+ -- renamed to git_test from (git-version-control-test-with-ssh)
